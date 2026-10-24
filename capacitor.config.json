@@ -1,0 +1,8 @@
+{
+  "appId": "com.combo.reactor",
+  "appName": "Combo Reactor",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
